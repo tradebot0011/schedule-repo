@@ -1,20 +1,20 @@
 [
   {
-    "Title": "Foreign Group Course LEVEL 4",
-    "Location": "@ 4C",
-    "Hour": 12,
-    "Minute": 0
+    "Title": "Test Class 1",
+    "Location": "@ Room A",
+    "Hour": 9,
+    "Minute": 50
   },
   {
-    "Title": "Foreign Group Course LEVEL 3",
-    "Location": "@ 5C (Pick Kentaro from 1st floor)",
-    "Hour": 13,
-    "Minute": 0
+    "Title": "Test Class 2",
+    "Location": "@ Room B",
+    "Hour": 9,
+    "Minute": 52
   },
   {
-    "Title": "Foreign Group Course LEVEL 4",
-    "Location": "@ Big Table 7F",
-    "Hour": 14,
-    "Minute": 0
+    "Title": "Test Class 3",
+    "Location": "@ Room C",
+    "Hour": 9,
+    "Minute": 54
   }
 ]
