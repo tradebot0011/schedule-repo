@@ -1,28 +1,4 @@
-
-
 [
- {
-    "Title": "Foreign Group Course LEVEL 4",
-    "Location": "@ 4C",
-    "Hour": 12,
-    "Minute": 0
-  },
-  {
-    "Title": "Foreign Group Course LEVEL 3",
-    "Location": "@ 5C (Pick Kentaro from 1st floor)",
-    "Hour": 13,
-    "Minute": 0
-  },
-  {
-    "Title": "Foreign Group Course LEVEL 4",
-    "Location": "@ Big Table 7F",
-    "Hour": 14,
-    "Minute": 0
-  }
-]
-  
-  
-  
   {
     "hour": 12,
     "minute": 0,
