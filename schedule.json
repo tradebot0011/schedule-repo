@@ -1,13 +1,17 @@
+
+
 [
   {
-    "time": "12:00",
-    "course": "Private Course / Online",
+    "hour": 12,
+    "minute": 0,
+    "title": "Private Course / Online",
     "location": "Phone Booth 4F",
-    "notes": "Already Booked - Victor / Online at Umeda!"
+    "students": []
   },
   {
-    "time": "13:00",
-    "course": "Private Course for Foreigners LEVEL 5",
+    "hour": 13,
+    "minute": 0,
+    "title": "Private Course for Foreigners LEVEL 5",
     "location": "6C",
     "students": [
       {
@@ -17,14 +21,16 @@
     ]
   },
   {
-    "time": "14:00",
-    "course": "Lesson / Online",
+    "hour": 14,
+    "minute": 0,
+    "title": "Lesson / Online",
     "location": "6C",
-    "notes": "Victor / Online at Umeda!"
+    "students": []
   },
   {
-    "time": "15:00",
-    "course": "Foreign Group Course LEVEL 4",
+    "hour": 15,
+    "minute": 0,
+    "title": "Foreign Group Course LEVEL 4",
     "location": "Office 4-23",
     "students": [
       {
@@ -42,13 +48,16 @@
     ]
   },
   {
-    "time": "16:00",
-    "course": "Break",
-    "location": null
+    "hour": 16,
+    "minute": 0,
+    "title": "Break",
+    "location": "None",
+    "students": []
   },
   {
-    "time": "17:00",
-    "course": "Foreign Group Course LEVEL 4",
+    "hour": 17,
+    "minute": 0,
+    "title": "Foreign Group Course LEVEL 4",
     "location": "Office",
     "students": [
       {
@@ -62,14 +71,16 @@
     ]
   },
   {
-    "time": "18:00",
-    "course": "Private Course / Online",
+    "hour": 18,
+    "minute": 0,
+    "title": "Private Course / Online",
     "location": "Phone Booth 3F",
-    "notes": "Already Booked - Victor / Online at Umeda!"
+    "students": []
   },
   {
-    "time": "19:00",
-    "course": "Foreign Group Course LEVEL 3",
+    "hour": 19,
+    "minute": 0,
+    "title": "Foreign Group Course LEVEL 3",
     "location": "6C",
     "students": [
       {
@@ -83,8 +94,9 @@
     ]
   },
   {
-    "time": "20:00",
-    "course": "Foreign Group Course LEVEL 5",
+    "hour": 20,
+    "minute": 0,
+    "title": "Foreign Group Course LEVEL 5",
     "location": "6C",
     "students": [
       {
