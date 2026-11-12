@@ -2,19 +2,19 @@
   {
     "Title": "Test Class 1",
     "Location": "@ Room A",
-    "Hour": 9,
-    "Minute": 50
+    "Hour": 10,
+    "Minute": 7
   },
   {
     "Title": "Test Class 2",
     "Location": "@ Room B",
-    "Hour": 9,
-    "Minute": 52
+    "Hour": 10,
+    "Minute": 9
   },
   {
     "Title": "Test Class 3",
     "Location": "@ Room C",
-    "Hour": 9,
-    "Minute": 54
+    "Hour": 10,
+    "Minute": 11
   }
 ]
