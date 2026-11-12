@@ -1,20 +1,100 @@
 [
   {
-    "Title": "Test Class 1",
-    "Location": "@ Room A",
-    "Hour": 10,
-    "Minute": 7
+    "time": "12:00",
+    "course": "Private Course / Online",
+    "location": "Phone Booth 4F",
+    "notes": "Already Booked - Victor / Online at Umeda!"
   },
   {
-    "Title": "Test Class 2",
-    "Location": "@ Room B",
-    "Hour": 10,
-    "Minute": 9
+    "time": "13:00",
+    "course": "Private Course for Foreigners LEVEL 5",
+    "location": "6C",
+    "students": [
+      {
+        "id": "2357",
+        "name": "Kotaro Ikeda"
+      }
+    ]
   },
   {
-    "Title": "Test Class 3",
-    "Location": "@ Room C",
-    "Hour": 10,
-    "Minute": 11
+    "time": "14:00",
+    "course": "Lesson / Online",
+    "location": "6C",
+    "notes": "Victor / Online at Umeda!"
+  },
+  {
+    "time": "15:00",
+    "course": "Foreign Group Course LEVEL 4",
+    "location": "Office 4-23",
+    "students": [
+      {
+        "id": "2325",
+        "name": "Erina Yoshii"
+      },
+      {
+        "id": "632",
+        "name": "Jeongran Kim"
+      },
+      {
+        "id": "2950",
+        "name": "Hisako Fujita"
+      }
+    ]
+  },
+  {
+    "time": "16:00",
+    "course": "Break",
+    "location": null
+  },
+  {
+    "time": "17:00",
+    "course": "Foreign Group Course LEVEL 4",
+    "location": "Office",
+    "students": [
+      {
+        "id": "901",
+        "name": "Maru Matsuyama"
+      },
+      {
+        "id": "3127",
+        "name": "Hisako Nakano"
+      }
+    ]
+  },
+  {
+    "time": "18:00",
+    "course": "Private Course / Online",
+    "location": "Phone Booth 3F",
+    "notes": "Already Booked - Victor / Online at Umeda!"
+  },
+  {
+    "time": "19:00",
+    "course": "Foreign Group Course LEVEL 3",
+    "location": "6C",
+    "students": [
+      {
+        "id": "1012",
+        "name": "Makiko Mizutani"
+      },
+      {
+        "id": "995",
+        "name": "Natsumi Yoshida"
+      }
+    ]
+  },
+  {
+    "time": "20:00",
+    "course": "Foreign Group Course LEVEL 5",
+    "location": "6C",
+    "students": [
+      {
+        "id": "2518",
+        "name": "Natsuki Yoshino"
+      },
+      {
+        "id": "455",
+        "name": "Boon Hong Chew"
+      }
+    ]
   }
 ]
